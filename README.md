@@ -17,3 +17,4 @@
 
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /> <img src="https://skillicons.dev/icons?i=socketio" alt="Socket.IO" /> <img src="https://skillicons.dev/icons?i=git" alt="Git" /> <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" /> <img src="https://skillicons.dev/icons?i=matlab" alt="MATLAB" /> <img src="https://skillicons.dev/icons?i=simulink" alt="Simulink" />
+![Profile views](https://komarev.com/ghpvc/?username=nathi-sh)
